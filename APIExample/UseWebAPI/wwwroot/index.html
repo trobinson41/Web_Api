@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#myButton").click(function () {
+                $.ajax({
+                    url: 'http://localhost:55318/api/First',
+                    type: 'GET',
+                    success: function (result) {
+                        console.log(result);
+                    }
+                });
+            });
+        })
+    </script>
+</head>
+<body>
+    <h1>Welcome to web APIs Example</h1>
+
+    <input type="button" id="myButton" value="Click Me" />
+</body>
+</html>

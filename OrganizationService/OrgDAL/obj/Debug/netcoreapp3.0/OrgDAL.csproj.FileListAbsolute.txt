@@ -1,0 +1,10 @@
+D:\Web API\OrganizationService\OrgDAL\bin\Debug\netcoreapp3.0\OrgDAL.deps.json
+D:\Web API\OrganizationService\OrgDAL\bin\Debug\netcoreapp3.0\OrgDAL.runtimeconfig.json
+D:\Web API\OrganizationService\OrgDAL\bin\Debug\netcoreapp3.0\OrgDAL.runtimeconfig.dev.json
+D:\Web API\OrganizationService\OrgDAL\bin\Debug\netcoreapp3.0\OrgDAL.dll
+D:\Web API\OrganizationService\OrgDAL\bin\Debug\netcoreapp3.0\OrgDAL.pdb
+D:\Web API\OrganizationService\OrgDAL\obj\Debug\netcoreapp3.0\OrgDAL.AssemblyInfoInputs.cache
+D:\Web API\OrganizationService\OrgDAL\obj\Debug\netcoreapp3.0\OrgDAL.AssemblyInfo.cs
+D:\Web API\OrganizationService\OrgDAL\obj\Debug\netcoreapp3.0\OrgDAL.dll
+D:\Web API\OrganizationService\OrgDAL\obj\Debug\netcoreapp3.0\OrgDAL.pdb
+D:\Web API\OrganizationService\OrgDAL\obj\Debug\netcoreapp3.0\OrgDAL.csprojAssemblyReference.cache

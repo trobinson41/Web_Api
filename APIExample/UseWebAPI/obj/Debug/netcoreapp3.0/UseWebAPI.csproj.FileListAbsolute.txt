@@ -1,0 +1,17 @@
+D:\Web API\APIExample\UseWebAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Web API\APIExample\UseWebAPI\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Web API\APIExample\UseWebAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Web API\APIExample\UseWebAPI\bin\Debug\netcoreapp3.0\UseWebAPI.exe
+D:\Web API\APIExample\UseWebAPI\bin\Debug\netcoreapp3.0\UseWebAPI.deps.json
+D:\Web API\APIExample\UseWebAPI\bin\Debug\netcoreapp3.0\UseWebAPI.runtimeconfig.json
+D:\Web API\APIExample\UseWebAPI\bin\Debug\netcoreapp3.0\UseWebAPI.runtimeconfig.dev.json
+D:\Web API\APIExample\UseWebAPI\bin\Debug\netcoreapp3.0\UseWebAPI.dll
+D:\Web API\APIExample\UseWebAPI\bin\Debug\netcoreapp3.0\UseWebAPI.pdb
+D:\Web API\APIExample\UseWebAPI\obj\Debug\netcoreapp3.0\staticwebassets\UseWebAPI.StaticWebAssets.Manifest.cache
+D:\Web API\APIExample\UseWebAPI\obj\Debug\netcoreapp3.0\staticwebassets\UseWebAPI.StaticWebAssets.xml
+D:\Web API\APIExample\UseWebAPI\obj\Debug\netcoreapp3.0\UseWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Web API\APIExample\UseWebAPI\obj\Debug\netcoreapp3.0\UseWebAPI.AssemblyInfoInputs.cache
+D:\Web API\APIExample\UseWebAPI\obj\Debug\netcoreapp3.0\UseWebAPI.AssemblyInfo.cs
+D:\Web API\APIExample\UseWebAPI\obj\Debug\netcoreapp3.0\UseWebAPI.RazorTargetAssemblyInfo.cache
+D:\Web API\APIExample\UseWebAPI\obj\Debug\netcoreapp3.0\UseWebAPI.dll
+D:\Web API\APIExample\UseWebAPI\obj\Debug\netcoreapp3.0\UseWebAPI.pdb
